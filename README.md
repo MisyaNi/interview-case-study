@@ -22,8 +22,8 @@ You must work on this assignment using:
 
 ### Tasks
 
-1. As guest, I want to be able to register an account
-2. As guest, I want to be able to login using registered account
+1. As guest, I want to be able to register an account 
+2. As guest, I want to be able to login using registered account 
 3. As user, I want to see list of products after login
 4. As user, I want to be able to add product to cart
 5. As user, I want to be able to place order for added products in cart
