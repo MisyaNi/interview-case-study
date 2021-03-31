@@ -17,7 +17,7 @@ class ProductsSeeder extends Seeder
         DB::table('products')->insert(
         [
             [
-                'image' => 'public/images/product1.jpg',
+                'image' => 'images/product1.jpg',
                 'title' => 'The Authenticity Project',
                 'author' => 'Clare Pooley',
                 'price' => '46.50',
@@ -30,7 +30,7 @@ class ProductsSeeder extends Seeder
                 'updated_at' => date('Y-m-d H:i:s'),
             ],
             [
-                'image' => 'public/images/product2.jpg',
+                'image' => 'images/product2.jpg',
                 'title' => 'Searching for Sylvie Lee',
                 'author' => 'Kwok, Jean',
                 'price' => '49.90',
@@ -43,7 +43,7 @@ class ProductsSeeder extends Seeder
                 'updated_at' => date('Y-m-d H:i:s'),
             ],
             [
-                'image' => 'public/images/product3.jpg',
+                'image' => 'images/product3.jpg',
                 'title' => 'Lost Connections: Depression',
                 'author' => 'Hari, Johann',
                 'price' => '91.50',
@@ -56,7 +56,7 @@ class ProductsSeeder extends Seeder
                 'updated_at' => date('Y-m-d H:i:s'),
             ],
             [
-                'image' => 'public/images/product4.jpg',
+                'image' => 'images/product4.jpg',
                 'title' => 'Toxic : a guide to rebuilding respect and tolerance in a hostile workplace',
                 'author' => 'Clive Lewis',
                 'price' => '84.90',
@@ -69,7 +69,7 @@ class ProductsSeeder extends Seeder
                 'updated_at' => date('Y-m-d H:i:s'),
             ],
             [
-                'image' => 'public/images/product6.jpg',
+                'image' => 'images/product6.jpg',
                 'title' => 'FIRST WORDS JAPANESE 1ED',
                 'author' => 'Clive Lewis',
                 'price' => '49.90',
@@ -82,7 +82,7 @@ class ProductsSeeder extends Seeder
                 'updated_at' => date('Y-m-d H:i:s'),
             ],
             [
-                'image' => 'public/images/product5.jpg',
+                'image' => 'images/product5.jpg',
                 'title' => 'What Is Nintendo?',
                 'author' => 'SHAW,GINA',
                 'price' => '24.95',
